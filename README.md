@@ -7,6 +7,7 @@
    - #### Learn
       - [Danny MA SQL Masterclass course](https://github.com/DataWithDanny/sql-masterclass)
       - [Dixit's Leetcode Solutions](https://github.com/dixitthiya/leetcode)
+      - [SQL Regexp Key Points](https://github.com/dixitthiya/leetcode/blob/main/sql/README.md#regexp-notes-mysql-reference)
    - #### Practice for Interviews - Intellectual SQL Questions
       1. [262. Trips and Users](https://leetcode.com/problems/trips-and-users/) - [Solution](https://github.com/dixitthiya/leetcode/blob/main/sql/262.%20Trips%20and%20Users(Hard).sql)
       2. [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) - [Solution](https://github.com/dixitthiya/leetcode/blob/main/sql/601.%20Human%20Traffic%20of%20Stadium(Hard).sql)
