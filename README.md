@@ -6,6 +6,7 @@
 1. #### SQL  
    - #### Learn
       - [Danny MA SQL Masterclass course](https://github.com/DataWithDanny/sql-masterclass)
+      - [SQLZOO - Fast SQL Revision](https://sqlzoo.net/wiki/SQL_Tutorial)
       - [Dixit's Leetcode Solutions](https://github.com/dixitthiya/leetcode)
       - [SQL Regexp Key Points](https://github.com/dixitthiya/leetcode/blob/main/sql/README.md#regexp-notes-mysql-reference)
    - #### Practice for Interviews - Intellectual SQL Questions
