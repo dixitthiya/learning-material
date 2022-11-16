@@ -13,6 +13,7 @@
    - #### Practice for Interviews - Intellectual SQL Questions
       1. [262. Trips and Users](https://leetcode.com/problems/trips-and-users/) - [Solution](https://github.com/dixitthiya/leetcode/blob/main/sql/262.%20Trips%20and%20Users(Hard).sql)
       2. [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) - [Solution](https://github.com/dixitthiya/leetcode/blob/main/sql/601.%20Human%20Traffic%20of%20Stadium(Hard).sql)
+      3. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) - [Solution](https://github.com/dixitthiya/leetcode/blob/main/sql/176.%20Second%20Highest%20Salary(Tricky).sql)
 ## Time management and organization skills
 1. #### Work from home :house:
    - Yes work from home is the new normal. Many employers offer multiple positions that let you work from your own space. But sometimes it gets tricky when you don't know how to actually work from anywhere
