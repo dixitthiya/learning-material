@@ -26,3 +26,6 @@
    - [Aravind Gangadharan's Job Search and help post](https://www.linkedin.com/posts/aravindgangadharan_facebook-was-one-of-the-best-places-ive-activity-6996518604095533056-ELmo/?utm_source=share&utm_medium=member_desktop) - This post has information about various websites where you can search high quality jobs. It also has information about Technical Program Management(TPM) jobs and various communities you can join to find job postings, get help with mock interviews, resume reviews, etc. 
    - [Top 300 Coding Interview Questions with Solutions 🔥](https://www.linkedin.com/posts/dinesh-varyani_google-coding-strategy-activity-7002835967518633984-csT-?utm_source=share&utm_medium=member_desktop)
 
+## Some cool online AI tools
+1. #### [mixo.io](https://www.mixo.io/) - AI website builder - Paid
+   - This AI tool help you build your own website based on a description.
