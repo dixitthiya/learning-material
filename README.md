@@ -29,3 +29,9 @@
 ## Some cool online AI tools
 1. #### [mixo.io](https://www.mixo.io/) - AI website builder - Paid
    - This AI tool help you build your own website based on a description.
+
+## Camping and Hiking!
+1. #### [The Best Campgrounds Near Whitewater Rafting Destinations](https://go.campendium.com/the-best-campgrounds-near-whitewater-rafting-destinations/?lid=oqe9l88er4ju&utm_source=braze&utm_medium=email&utm_campaign=campendium_cobranded_weekly_reads&utm_content=May_19_2023&utm_campaign_id=7d0d4a52-4b14-48fe-aa2b-18f552633740)
+   - Whitewater rafting is a beautiful sport and camping around reivers that offers whitewater rafting is a mesmerizig experience. Do take a look at the above options if you want to go for whitewater rafting or want to camp around rivers that offer scenic views of the water and rafters!
+2. #### [11 must-see stops on a West Virginia road trip](https://roadtrippers.com/magazine/west-virginia-road-trip/?lid=o71qqm4c0k8q&utm_source=braze&utm_medium=email&utm_campaign=campendium_cobranded_weekly_reads&utm_content=May_19_2023&utm_campaign_id=7d0d4a52-4b14-48fe-aa2b-18f552633740)
+   - West Virginia state is known for its calmness and varied option for camping and recreation. Check out this 11 must visit place in West Virginia! Number 7 is my personal favourite!
